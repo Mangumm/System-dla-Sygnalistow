@@ -1,5 +1,6 @@
 <div align="center">
- <a href="https://www.globaleaks.org"><img src="/brand/assets/globaleaks-logo-color.png" width="400"></a>
+ <!--<a href="https://www.globaleaks.org"><img src="/brand/assets/globaleaks-logo-color.png" width="400"></a>-->
+<a href="https://www.globaleaks.org"><img src="https://ppk.polkowice.pl/sites/default/files/logo%2820%29.png" width="400"></a>
 </div>
 
 <div align="center">
